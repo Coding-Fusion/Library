@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F9D5F-47C2-46EC-BF2A-7B9194AF7690}|..\\Core\\Core.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\core\\interfaces\\ispec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F9D5F-47C2-46EC-BF2A-7B9194AF7690}|..\\Core\\Core.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\core\\bases\\basespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AC63-79A2-4587-A78A-2D8FF9EB6BB4}|..\\Repo\\Repo.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\repo\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AC63-79A2-4587-A78A-2D8FF9EB6BB4}|..\\Repo\\Repo.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\repo\\data\\repos\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AC63-79A2-4587-A78A-2D8FF9EB6BB4}|..\\Repo\\Repo.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\repo\\data\\spec\\spec_evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F9D5F-47C2-46EC-BF2A-7B9194AF7690}|..\\Core\\Core.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\core\\interfaces\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\helper\\cacheattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:helper\\cacheattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|c:\\users\\20120\\desktop\\libraryproject\\mustfaproject\\projects\\library\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T21:11:10.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spec_Evaluator.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Repo\\Data\\Spec\\Spec_Evaluator.cs",
+              "RelativeDocumentMoniker": "..\\Repo\\Data\\Spec\\Spec_Evaluator.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Repo\\Data\\Spec\\Spec_Evaluator.cs",
+              "RelativeToolTip": "..\\Repo\\Data\\Spec\\Spec_Evaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:55:23.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Repo\\Data\\Repos\\Generic.cs",
+              "RelativeDocumentMoniker": "..\\Repo\\Data\\Repos\\Generic.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Repo\\Data\\Repos\\Generic.cs",
+              "RelativeToolTip": "..\\Repo\\Data\\Repos\\Generic.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:48:14.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseSpec.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Core\\Bases\\BaseSpec.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Bases\\BaseSpec.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Core\\Bases\\BaseSpec.cs",
+              "RelativeToolTip": "..\\Core\\Bases\\BaseSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:47:29.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISpec.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Core\\Interfaces\\ISpec.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\ISpec.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Core\\Interfaces\\ISpec.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\ISpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:41:28.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Core\\Interfaces\\IGeneric.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Interfaces\\IGeneric.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Core\\Interfaces\\IGeneric.cs",
+              "RelativeToolTip": "..\\Core\\Interfaces\\IGeneric.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:39:49.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Repo\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "..\\Repo\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Repo\\Data\\StoreContext.cs",
+              "RelativeToolTip": "..\\Repo\\Data\\StoreContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:10:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:53:46.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:46:55.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CacheAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Helper\\CacheAttributes.cs",
+              "RelativeDocumentMoniker": "Helper\\CacheAttributes.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Helper\\CacheAttributes.cs",
+              "RelativeToolTip": "Helper\\CacheAttributes.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:47:23.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\DTOS\\BookDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\DTOS\\BookDTO.cs",
+              "RelativeToolTip": "DTOS\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:47:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Helper\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "Helper\\CacheAttribute.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Helper\\CacheAttribute.cs",
+              "RelativeToolTip": "Helper\\CacheAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:47:05.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T16:48:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\20120\\Desktop\\LibraryProject\\MustfaProject\\Projects\\Library\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:23:47.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

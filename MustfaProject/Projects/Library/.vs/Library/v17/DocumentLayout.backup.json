@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MustfaProject\\Projects\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F9D5F-47C2-46EC-BF2A-7B9194AF7690}|..\\Core\\Core.csproj|d:\\mustfaproject\\projects\\core\\entites\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AC63-79A2-4587-A78A-2D8FF9EB6BB4}|..\\Repo\\Repo.csproj|d:\\mustfaproject\\projects\\repo\\data\\repos\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F9D5F-47C2-46EC-BF2A-7B9194AF7690}|..\\Core\\Core.csproj|d:\\mustfaproject\\projects\\core\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AC63-79A2-4587-A78A-2D8FF9EB6BB4}|..\\Repo\\Repo.csproj|d:\\mustfaproject\\projects\\repo\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|d:\\mustfaproject\\projects\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A75DED26-C80B-47A0-BF5A-4DAC95630D36}|Library.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfile.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\Helper\\MappingProfile.cs*",
+              "RelativeToolTip": "Helper\\MappingProfile.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:38:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Core\\Entites\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entites\\Book.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Core\\Entites\\Book.cs",
+              "RelativeToolTip": "..\\Core\\Entites\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:41:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\DTOS\\BookDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\BookDTO.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\DTOS\\BookDTO.cs*",
+              "RelativeToolTip": "DTOS\\BookDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:37:50.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:36:30.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Core\\Entites\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Entites\\BaseEntity.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Core\\Entites\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Core\\Entites\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:23:29.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Repo\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "..\\Repo\\Data\\StoreContext.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Repo\\Data\\StoreContext.cs",
+              "RelativeToolTip": "..\\Repo\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:07:18.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:01:14.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:50:04.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Repo\\Data\\Repos\\Generic.cs",
+              "RelativeDocumentMoniker": "..\\Repo\\Data\\Repos\\Generic.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Repo\\Data\\Repos\\Generic.cs",
+              "RelativeToolTip": "..\\Repo\\Data\\Repos\\Generic.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:45:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:43:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MustfaProject\\Projects\\Library\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MustfaProject\\Projects\\Library\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T18:40:14.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
